@@ -1,0 +1,6 @@
+Usuario para empresa: 
+usu:joe
+pass:123456
+
+Usuario para persona:
+123
